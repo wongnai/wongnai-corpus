@@ -25,8 +25,8 @@ https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction
 
 
 ### 2.2 Usage
-The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [this](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm)
-by Khun Korakot Chaovavanich.
+The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [this](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm).
+(by Khun Korakot Chaovavanich)
 
-In addtion, it is also used for creating a [Text Classification Benchmark](https://github.com/kobkrit/nlp_thai_resources/blob/master/README.md). which was described in detail in [this](https://colab.research.google.com/drive/1cnJ6O3b1jwaHwvsMWW3oQw7f8X2Ka7Sp#scrollTo=jNTJ5rl6eKLB)
-by Khun Charin Polpanumas.
+In addtion, it is also used for creating a [Text Classification Benchmark](https://github.com/kobkrit/nlp_thai_resources/blob/master/README.md). which was well described in [this](https://colab.research.google.com/drive/1cnJ6O3b1jwaHwvsMWW3oQw7f8X2Ka7Sp#scrollTo=jNTJ5rl6eKLB).
+(by Khun Charin Polpanumas)
