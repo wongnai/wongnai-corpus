@@ -14,7 +14,7 @@ There are 500,000 unique words extracted from search queries. These words were l
 **Please note that these words were collected from user-generated content(UGC) which might include some out of topic words.**
 
 ### 1.2 Usage
-- You may use `labeled_query_by_algo.txt` for training your own word segmentation model by spliting into train and validation set and then evaluate your model with `labeled_query_by_judges.txt`.
+You may use `labeled_query_by_algo.txt` for training your own word segmentation model by spliting into train and validation set and then evaluate your model with `labeled_query_by_judges.txt`.
 
 ## 2. Review dataset
 The review dataset contains restaurant reviews and ratings (there are only 5 classes ranging from 1 to 5 stars).
@@ -25,8 +25,6 @@ https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction
 
 
 ### 2.2 Usage
-The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [this](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm).
-(by Khun Korakot Chaovavanich)
+- The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [this](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm).(by Khun Korakot Chaovavanich)
 
-In addtion, it is also used for creating a [Text Classification Benchmark](https://github.com/kobkrit/nlp_thai_resources/blob/master/README.md). which was well described in [this](https://colab.research.google.com/drive/1cnJ6O3b1jwaHwvsMWW3oQw7f8X2Ka7Sp#scrollTo=jNTJ5rl6eKLB).
-(by Khun Charin Polpanumas)
+- In addtion, it is also used for creating a [Text Classification Benchmark](https://github.com/kobkrit/nlp_thai_resources/blob/master/README.md). which was well described in [this](https://colab.research.google.com/drive/1cnJ6O3b1jwaHwvsMWW3oQw7f8X2Ka7Sp#scrollTo=jNTJ5rl6eKLB).(by Khun Charin Polpanumas)
