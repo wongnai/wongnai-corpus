@@ -21,7 +21,6 @@ The review dataset contains restaurant reviews and ratings (there are only 5 cla
 
 ### 2.1 Files
 The dataset is located in Kaggle competition which was created by Aj.Ekapol Chuangsuwanich
-
 https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction
 
 
@@ -29,16 +28,11 @@ https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction
 The dataset is originally used for a Review Rating Prediction task. 
 
 **Example**
-
 https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm
-
 by Khun Korakot Chaovavanich.
 
 In addtion, it is also used for creating a [Text Classification Benchmark](https://github.com/kobkrit/nlp_thai_resources/blob/master/README.md).
-
 **Example**
-
 https://colab.research.google.com/drive/1cnJ6O3b1jwaHwvsMWW3oQw7f8X2Ka7Sp#scrollTo=jNTJ5rl6eKLB
 https://github.com/cstorm125/thai2vec/
-
 By Khun Charin Polpanumas.
