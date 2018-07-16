@@ -5,16 +5,16 @@ This project is a collection of Wongnai's datasets which are mostly in Thai lang
 There are 500,000 unique words extracted from search queries. These words were labeled by algorithms and judges for a word segmentation task. Our segmentation criteria is to segment the longest food word as possible for archiving the highest precision score in search system.
 
 ### 1.1 Files
-+ `search/labeled_query_by_algo.txt` : List of 500K words labeled by algorithms which were described in detail in this [blog post.]( https://life.wongnai.com/wongnai-search-improvement-using-machine-learning-part1-e0777b65979e)
++ `search/labeled_queries_by_algo.txt` : List of 500K words labeled by algorithms which were described in detail in this [blog post.]( https://life.wongnai.com/wongnai-search-improvement-using-machine-learning-part1-e0777b65979e)
 
-+ `search/labeled_query_by_judges.txt` : List of 10K words labeled by judges following Wongnai's search criteria.
++ `search/labeled_queries_by_judges.txt` : List of 10K words labeled by judges following Wongnai's search criteria.
 
 + `search/food_dictionary.txt` : List of 400K food words used for labelling the labeled_query_by_algo file.
 
 **Please note that these words were collected from user-generated content(UGC) which might include some out of topic words.**
 
 ### 1.2 Usage
-- You may use `labeled_query_by_algo.txt` for training your own word segmentation model by spliting into train and validation set and then evaluate your model with `labeled_query_by_judges.txt`.
+- You may use `labeled_queries_by_algo.txt` for training your own word segmentation model by spliting into train and validation set and then evaluate your model with `labeled_query_by_judges.txt`.
 
 
 ## 2. Review dataset
