@@ -14,14 +14,13 @@ There are 500,000 unique words extracted from search queries. These words were l
 **Please note that these words were collected from user-generated content(UGC) which might include some out of topic words.**
 
 ### 1.2 Usage
-You may use `labeled_query_by_algo.txt` for training your own word segmentation model by spliting into train and validation set and then evaluate your model with `labeled_query_by_judges.txt`.
+- You may use `labeled_query_by_algo.txt` for training your own word segmentation model by spliting into train and validation set and then evaluate your model with `labeled_query_by_judges.txt`.
 
 ## 2. Review dataset
 The review dataset contains restaurant reviews and ratings (there are only 5 classes ranging from 1 to 5 stars).
 
 ### 2.1 Files
-The dataset is located in Kaggle competition which was created by Aj.Ekapol Chuangsuwanich
-https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction
+- The dataset is located in [Kaggle competition](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction) which was created by Aj.Ekapol Chuangsuwanich 
 
 
 ### 2.2 Usage
