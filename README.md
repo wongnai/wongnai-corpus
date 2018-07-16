@@ -1,8 +1,8 @@
 # Wongnai-corpus
-This project is a collection of Wongnai's datasets which are mostly in Thai language. We hope that these datasets will advance research in natural language processing(NLP) espeacially for Thai language.
+This project is a collection of Wongnai's datasets which are mostly in Thai language. We hope that these datasets will advance research in natural language processing(NLP) especially for Thai language.
 
 ## 1. Search query dataset
-There are 500,000 unique words extracted from search queries. These words were labeled by algorithm and judges for a word segmentation task. Our segmentation criteria is to segment the longest food word as possible for archiving the highest precision score in search system.
+There are 500,000 unique words extracted from search queries. These words were labeled by algorithms and judges for a word segmentation task. Our segmentation criteria is to segment the longest food word as possible for archiving the highest precision score in search system.
 
 ### 1.1 Files
 + `search/labeled_query_by_algo.txt` : List of 500K words labeled by algorithms which were described in detail in this [blog post.]( https://life.wongnai.com/wongnai-search-improvement-using-machine-learning-part1-e0777b65979e)
