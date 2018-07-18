@@ -1,5 +1,5 @@
 # Wongnai-corpus
-This project is a collection of Wongnai's datasets which are mostly in Thai language. We hope that these datasets will advance research in natural language processing(NLP) especially for Thai language.
+This project is a collection of Wongnai's datasets which are mostly in Thai language. We hope that these datasets will advance research in natural language processing(NLP) especially in Thai language.
 
 ## 1. Search query dataset
 There are 500,000 unique words extracted from search queries. These words were labeled by algorithms and judges for a word segmentation task. Our segmentation criteria is to segment the longest food word as possible for archiving the highest precision score in search system.
@@ -21,7 +21,7 @@ There are 500,000 unique words extracted from search queries. These words were l
 The review dataset contains restaurant reviews and ratings (there are only 5 classes ranging from 1 to 5 stars).
 
 ### 2.1 Files
-- The dataset is located in [Kaggle competition](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction) which was created by [Aj.Ekapol Chuangsuwanich](https://www.facebook.com/ekapolc) 
+- The dataset is located in [Kaggle competition](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction) which was created by [Dr.Ekapol Chuangsuwanich](https://www.facebook.com/ekapolc) 
 
 ### 2.2 Usage
 - The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [this](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm). (by [Khun Korakot Chaovavanich](https://www.facebook.com/korakot.chaovavanich))
