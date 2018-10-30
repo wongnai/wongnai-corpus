@@ -21,7 +21,7 @@ There are 500,000 unique words extracted from search queries. These words were l
 The review dataset contains restaurant reviews and ratings (there are only 5 classes ranging from 1 to 5 stars).
 
 ### 2.1 Files
-- The dataset is located in [Kaggle competition](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction) which was created by [Dr.Ekapol Chuangsuwanich](https://www.facebook.com/ekapolc) 
+- The dataset is located in [Kaggle competition](http://bit.ly/cu-2018-nlp) which was created by [Dr.Ekapol Chuangsuwanich](https://www.facebook.com/ekapolc) 
 
 ### 2.2 Usage
 - The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [this](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm). (by [Khun Korakot Chaovavanich](https://www.facebook.com/korakot.chaovavanich))
