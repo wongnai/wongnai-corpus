@@ -5,7 +5,7 @@ This project is a collection of Wongnai's datasets which are mostly in Thai lang
 There are 500,000 unique words extracted from search queries. These words were labeled by algorithms and judges for a word segmentation task. Our segmentation criteria is to segment the longest food word as possible for archiving the highest precision score in search system.
 
 ### 1.1 Files
-+ `search/labeled_queries_by_algo.txt` : List of 500K words labeled by algorithms which were described in detail in this [blog post.]( https://life.wongnai.com/wongnai-search-improvement-using-machine-learning-part1-e0777b65979e)
++ `search/labeled_queries_by_algo.txt` : List of 500K words labeled by algorithms which were described in detail in [blog post.]( https://life.wongnai.com/wongnai-search-improvement-using-machine-learning-part1-e0777b65979e)
 
 + `search/labeled_queries_by_judges.txt` : List of 10K words labeled by judges following Wongnai's search criteria.
 
@@ -23,7 +23,9 @@ The review dataset contains restaurant reviews and ratings (there are only 5 cla
 ### 2.1 Files
 - The dataset is located in [Kaggle competition](http://bit.ly/cu-2018-nlp) which was created by [Dr.Ekapol Chuangsuwanich](https://www.facebook.com/ekapolc) 
 
-### 2.2 Usage
-- The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [this](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm). (by [Khun Korakot Chaovavanich](https://www.facebook.com/korakot.chaovavanich))
+- If you can't download files, they are also located here `review/review_dataset.zip`
 
-- In addition, it is also used for creating a [Text Classification Benchmark](https://github.com/kobkrit/nlp_thai_resources/blob/master/README.md) which was well described in [this](https://colab.research.google.com/drive/1cnJ6O3b1jwaHwvsMWW3oQw7f8X2Ka7Sp#scrollTo=jNTJ5rl6eKLB). (by [Khun Charin Polpanumas](https://www.facebook.com/charin.lin.5))
+### 2.2 Usage
+- The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [here](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm). (by [Khun Korakot Chaovavanich](https://www.facebook.com/korakot.chaovavanich))
+
+- In addition, it is also used for creating a [Text Classification Benchmark](https://github.com/kobkrit/nlp_thai_resources/blob/master/README.md) which was well described [here](https://colab.research.google.com/drive/1cnJ6O3b1jwaHwvsMWW3oQw7f8X2Ka7Sp#scrollTo=jNTJ5rl6eKLB). (by [Khun Charin Polpanumas](https://www.facebook.com/charin.lin.5))
