@@ -29,3 +29,10 @@ The review dataset contains restaurant reviews and ratings (there are only 5 cla
 - The dataset is originally used for a Review Rating Prediction task. You can find an example of how to import the data from [here](https://colab.research.google.com/drive/1iOweEcd78oLdMAvAWOE6fNLp94aGv7th#scrollTo=8dihf3f3COtm). (by [Khun Korakot Chaovavanich](https://www.facebook.com/korakot.chaovavanich))
 
 - In addition, it is also used for creating a [Text Classification Benchmark](https://github.com/PyThaiNLP/classification-benchmarks) which was well described [here](https://github.com/cstorm125/thai2fit/blob/master/wongnai_cls/classification.ipynb). (by [Khun Charin Polpanumas](https://www.github.com/cstorm125))
+
+
+## Wongnai data services
+- If you are interested in Wongnai database including photos, reviews or restaurant database,
+Wongnai also provides data services such as API and files. For more details, please follow the link below
+https://business.wongnai.com/restaurants-data-service/en/
+
