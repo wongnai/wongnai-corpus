@@ -32,7 +32,7 @@ The review dataset contains restaurant reviews and ratings (there are only 5 cla
 
 
 ## Wongnai data services
-- If you are interested in Wongnai database including photos, reviews or restaurant database,
-Wongnai also provides data services such as API and files. For more details, please follow the link below
+- If you are interested in Wongnai database such as photos, reviews and restaurant database,
+Wongnai also provides data services including API and files. For more details, please follow the link below.
 https://business.wongnai.com/restaurants-data-service/en/
 
